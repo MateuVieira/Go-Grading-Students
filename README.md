@@ -60,5 +60,3 @@ Sample Output 0
 40
 33
 ```
-
-33
